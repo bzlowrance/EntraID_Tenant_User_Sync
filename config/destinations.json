@@ -1,0 +1,16 @@
+{
+    "destinationTenants": [
+        {
+            "tenantId": "<destination-tenant-1-id>",
+            "clientId": "<destination-spn-1-client-id>",
+            "clientSecret": "<destination-spn-1-client-secret>",
+            "groupId": "<destination-group-1-id>"
+        },
+        {
+            "tenantId": "<destination-tenant-2-id>",
+            "clientId": "<destination-spn-2-client-id>",
+            "clientSecret": "<destination-spn-2-client-secret>",
+            "groupId": "<destination-group-2-id>"
+        }
+    ]
+}
