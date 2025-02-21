@@ -5,4 +5,3 @@ See Wiki
 
 https://github.com/bzlowrance/EntraID_Tenant_User_Sync/wiki
 
-Alternatively the included powershell script should work.
